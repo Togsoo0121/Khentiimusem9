@@ -1,0 +1,11 @@
+src/
+├── App.js
+├── components/
+│   ├── Header.js
+│   ├── Tabs.js
+│   ├── Introduction.js
+│   ├── Heritage.js
+│   ├── Reports.js
+│   └── AdminPanel.js
+├── App.css
+└── index.js
